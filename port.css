@@ -1,0 +1,73 @@
+
+ body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHmD8nDaXzYjJGNaQ9CPbNZCTodWTyt3vTdg&usqp=CAU');
+    background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%; 
+  font-family: 'Roboto', sans-serif;    
+  color: red;
+}   
+   
+img{
+    border-radius:10%;
+    width: 250px;
+    margin-left: 700px;
+}
+
+h2 {
+    color: rgb(158, 9, 9);
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 27px;
+    font-style: italic;
+}
+    
+.logo{
+    width: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    min-height: 5px;
+    }  
+    
+ #header {
+    background-color:lightcoral;
+    display: flex;
+    color: green;
+    height: 45px;
+    font-size: 27px;
+    justify-content: flex-start;
+    
+}
+    
+
+div {
+        margin-top:0%;
+        text-align: center;
+        align-content: center;
+    }
+
+    #div1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    a {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    
+    a:hover {
+        color: rgb(169, 236, 13);
+    }
+    
+    
+    
+    button:hover {
+        color: rgb(0, 213, 255);
+        font-size: large;
+        cursor: pointer;
+    }        
